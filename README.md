@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ff
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,6 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![mumu-1005's GitHub stats](https://github-readme-stats.vercel.app/api?username=mumu-1005&count_private=true&show_icons=true&theme=graywhite)
+- 🔭 I’m currently working on ff
+- 🌱 I’m currently learning ai and digital twin for digital satellite 
 
-![mumu-1005's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mumu-1005&langs_count=10&layout=compact)
+<!--![mumu-1005's GitHub stats](https://github-readme-stats.vercel.app/api?username=mumu-1005&count_private=true&show_icons=true&theme=graywhite&hide_border=1)-->
+
+<br>
+<div> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats.vercel.app/api?username=mumu-1005&count_private=true&show_icons=true&hide_border=1" alt="mumu-1005's Github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=mumu-1005&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="mumu-1005's Language stats" />
+</a>
+</div>
