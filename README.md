@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on ff
-- 🌱 I’m currently learning ai and digital twin for digital satellite 
+- 🌱 I’m currently learning ai and digital twin for digital satellite
+- 📫 My curriculum vitae: https://mumu-1005.github.io/
